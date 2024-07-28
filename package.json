@@ -1,7 +1,7 @@
 {
   "name": "food-del",
-  "homepage" : "https://harshavardhankakarla.github.io/Food-Delivery/"
-  "private": true,
+  "homepage" : "https://harshavardhankakarla.github.io/Food-Delivery"
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
